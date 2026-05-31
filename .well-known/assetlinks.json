@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.tehilim",
+      "sha256_cert_fingerprints": [
+        "AF:E5:C9:76:1E:29:05:F1:51:3F:B4:0A:2E:9A:BA:94:D4:78:B8:8E:C1:AA:00:13:AF:3D:BC:08:92:B9:49:0B"
+      ]
+    }
+  }
+]
