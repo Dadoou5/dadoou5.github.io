@@ -4,7 +4,8 @@
       {
         "appIDs": ["NFQ2Q87CV9.com.david.tehilim"],
         "components": [
-          { "/": "/p/*", "comment": "Partage de priere Lelouy Nichmat" }
+          { "/": "/p/*", "comment": "Partage de priere Lelouy Nichmat" },
+          { "/": "/c/*", "comment": "Chaine de Tehilim" }
         ]
       }
     ]
